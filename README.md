@@ -1,4 +1,5 @@
-## Hi there 👋
+## Dispenser Otomatis
+Dispenser Otomatis adalah proyek inovatif yang dirancang untuk mengontrol aliran air secara otomatis berdasarkan sensor dan perintah jarak jauh. Sistem ini memanfaatkan ESP8266 sebagai mikrokontroler utama yang terhubung ke sensor ultrasonik untuk mendeteksi keberadaan gelas serta waterpump untuk mengontrol aliran air.
 
 <!--
 **galihpratamaa16/galihpratamaa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
